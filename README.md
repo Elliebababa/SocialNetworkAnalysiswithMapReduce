@@ -10,7 +10,7 @@ The project for easy social network analysis using Mrjob.
 - Run it on local machine:
   python file.py < data.txt
 - Run it on cluster:
-  python file.py -r hadoop hdfs://path/to/data..txt
+  python file.py -r hadoop hdfs://path/to/data.txt
 
 
 
